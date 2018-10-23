@@ -1,0 +1,37 @@
+baseURL = "http://jade.sh/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+isMultilingual = false
+title = "Jade Bilkey"
+theme = "sam"
+pygmentsStyle = "monokai"
+pygmentsCodefences = true
+
+[params]
+  dateform = "Mon 2006-01-02"
+  dateformfull = "Mon 2006-01-02 15:04 EST"
+  favicon = "icon.ico"
+  homepage = "start"
+  galleryFolder = "images/"
+  clickablePhotos = false
+  smallPreviewImages = true
+  smallImagesSubfolder = "small/"
+  
+  footerText = "Love, Jade"
+
+# Metadata
+  description = "The portfolio and blog of Jade Felicity Bilkey, bespoke software architect"
+  twitterCard = "summary_large_image"
+  primaryImage = "tn.png"
+
+[[params.mainMenu]]
+  link = "/posts"
+  text = "posts."
+
+[[params.mainMenu]]
+  link = "/past_projects"
+  text = "past work & projects."
+
+[[params.mainMenu]]
+  link = "/about"
+  text = "who is jade?"
