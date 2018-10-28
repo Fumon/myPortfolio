@@ -6,6 +6,7 @@ title = "Jade Bilkey"
 theme = "sam"
 pygmentsStyle = "monokai"
 pygmentsCodefences = true
+pluralizeListTitles = false
 
 [params]
   dateform = "Mon 2006-01-02"
@@ -29,8 +30,8 @@ pygmentsCodefences = true
   text = "posts."
 
 [[params.mainMenu]]
-  link = "/past_projects"
-  text = "past work & projects."
+  link = "/portfolio"
+  text = "portfolio."
 
 [[params.mainMenu]]
   link = "/about"

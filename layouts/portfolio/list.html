@@ -1,0 +1,15 @@
+{{ define "section_content" }}
+<div class="section" id="content">
+    {{ .Content }}
+    {{ range .Pages.GroupByParam "portfolioType" }}
+    <h2>{{ .Key }}</h2>
+    <hr>
+      {{ range .Pages }}
+          <a href="{{.Permalink}}">
+              {{.Title}}
+          </a>
+          {{ .Description }}
+      {{ end }}
+    {{ end }}
+</div>
+{{ end }}
