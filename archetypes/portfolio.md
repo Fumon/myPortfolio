@@ -5,6 +5,7 @@ image: ""
 description: ""
 portfolioType: ""
 approxDate: ""
+endDate: ""
 draft: true
 ---
 
