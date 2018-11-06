@@ -4,11 +4,21 @@
     {{ range .Pages.GroupByParam "portfolioType" }}
     <h2>{{ .Key }}</h2>
     <hr>
-      {{ range .Pages }}
-          <a href="{{.Permalink}}">
-              {{.Title}}
-          </a>
+      {{ range (.Pages.ByParam "approxDate").Reverse }}
+      <div class="portfListItem">
+        <img src="{{ .Params.image }}"/>
+        <div>
+          <a href="{{.Permalink}}">{{.Title}}</a>
+          ·
+          {{ .Params.approxDate }}
+          {{ if .Params.endDate }}
+          - {{ .Params.endDate }}
+          {{ end }}
+        </div>
+        <p>
           {{ .Description }}
+        </p>
+      </div>
       {{ end }}
     {{ end }}
 </div>
