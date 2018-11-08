@@ -33,6 +33,6 @@ pluralizeListTitles = false
   link = "/portfolio"
   text = "portfolio."
 
-[[params.mainMenu]]
-  link = "/about"
-  text = "who is jade?"
+#[[params.mainMenu]]
+#  link = "/about"
+#  text = "who is jade?"
