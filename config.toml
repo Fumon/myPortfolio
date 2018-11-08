@@ -1,4 +1,4 @@
-baseURL = "http://jade.sh/"
+baseURL = "https://jade.sh/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 isMultilingual = false
