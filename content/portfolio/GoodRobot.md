@@ -7,6 +7,6 @@ Additionally, I developed the data collection and operations backend which featu
 portfolioType: "Jobs"
 approxDate: "2012"
 endDate: "2013"
-draft: true
+draft: false
 ---
 

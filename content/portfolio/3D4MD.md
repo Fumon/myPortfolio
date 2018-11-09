@@ -6,6 +6,6 @@ description: "A medical 3D printing company which works to deliver improvements 
 portfolioType: "Jobs"
 approxDate: "2017"
 endDate: "2018"
-draft: true
+draft: false
 ---
 

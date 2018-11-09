@@ -7,6 +7,6 @@ Later projects included a large, wall mounted display with multi-player tetris a
 portfolioType: "Selected Projects"
 approxDate: "2010"
 endDate: ""
-draft: true
+draft: false
 ---
 

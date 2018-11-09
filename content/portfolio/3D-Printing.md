@@ -6,6 +6,6 @@ description: "Since 2009, I have participated in the 3D printing community as a 
 portfolioType: "Selected Projects"
 approxDate: "2009"
 endDate: ""
-draft: true
+draft: false
 ---
 

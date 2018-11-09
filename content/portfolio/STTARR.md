@@ -6,6 +6,6 @@ description: "Lead Data Scientist - Core IV. My work at STTARR involved taking p
 portfolioType: "Jobs"
 approxDate: "2015"
 endDate: "Present"
-draft: true
+draft: false
 ---
 

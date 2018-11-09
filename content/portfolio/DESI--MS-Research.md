@@ -6,7 +6,7 @@ description: "Variations in the Abundance of Lipid Biomarker Ions in Mass Spectr
 portfolioType: "Selected Projects"
 approxDate: "2016"
 endDate: "2017"
-draft: true
+draft: false
 ---
 
 [Variations in the Abundance of Lipid Biomarker Ions in Mass Spectrometry Images Correlate to Tissue Density](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b02767)

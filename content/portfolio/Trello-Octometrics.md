@@ -6,6 +6,6 @@ description: "I developed a web microservice which monitors cards on a Trello TO
 portfolioType: "Software and Contributions"
 approxDate: "2013"
 endDate: "2013"
-draft: true
+draft: false
 ---
 

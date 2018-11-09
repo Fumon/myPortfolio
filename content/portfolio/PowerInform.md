@@ -6,6 +6,6 @@ description: "Winner of the MaRS Future Impact Award at the MaRS Energy Hackatho
 portfolioType: "Jobs"
 approxDate: "2013"
 endDate: "2014"
-draft: true
+draft: false
 ---
 

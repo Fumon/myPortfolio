@@ -6,6 +6,6 @@ description: "A userspace driver of the ANT protocol for collecting measurements
 portfolioType: "Software and Contributions"
 approxDate: "2012"
 endDate: ""
-draft: true
+draft: false
 ---
 

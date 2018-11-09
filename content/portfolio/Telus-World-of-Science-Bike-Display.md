@@ -6,7 +6,7 @@ description: "As part of the Ken Spencer Science park project Urban Visuals was 
 portfolioType: "Selected Projects"
 approxDate: "2012"
 endDate: ""
-draft: true
+draft: false
 ---
 
 

@@ -6,6 +6,6 @@ description: "A project to create a set of animatronic ears which express in-ste
 portfolioType: "Selected Projects"
 approxDate: "2010"
 endDate: ""
-draft: true
+draft: false
 ---
 
